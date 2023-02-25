@@ -1,3 +1,3 @@
 ﻿# Discord-Clone
 
-[View Demo](link)
+[View Demo](https://vijaykannnan.github.io/Discord-Clone/)
